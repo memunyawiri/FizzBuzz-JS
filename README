@@ -1,10 +1,10 @@
-Fizzbuzz
-Week 4 Maker's Academy Pre-course
+# Fizzbuzz #
+# Week 4 Maker's Academy Pre-course #
 
 This challenge was an introduction to Test Driven Development(TDD)
 and Pair Programming.
 
-What is Fizzbuzz?
+# What is Fizzbuzz? #
 
 Fizzbuzz has the following specification:
 * The program can be passed a number.
